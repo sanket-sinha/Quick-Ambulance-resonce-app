@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Smart Helmet Ambulance App</string>
+    <string name="title_activity_customer_map">Customer Map</string>
+    <string name="title_activity_police_maps">Police Map</string>
+    <string name="title_activity_ambulance_maps">Ambulance Map</string>
+    <string name="title_activity_ambulance">AmbulanceActivity</string>
+
+</resources>
